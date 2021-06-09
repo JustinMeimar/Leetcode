@@ -1,3 +1,5 @@
+# easy difficulty; recrusive solution
+
 class Solution:
     def sumBase(self, n: int, k: int) -> int:
         print(n,k)
